@@ -12,7 +12,7 @@ h3 {
 }
 /* Imagen banner y nombre de la empresa */
 .hero {
-  background: url(/public/img/banner.jpg);
+  background: url(./public/img/banner.jpg);
   height: 200px;
   width: 100%;
   background-size: cover;
@@ -41,7 +41,7 @@ h3, h4{
 }
 
 .contenedor-con-fondo {
-  background-image: url(/public/img/pan-bajo.jpeg);
+  background-image: url(./public/img/pan-bajo.jpeg);
   background-size:cover;
 }
 .contenedor-informacion {
